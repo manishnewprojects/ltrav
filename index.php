@@ -14,6 +14,9 @@
 
 <?php include 'php_includes/navbar.php'; ?>
 
+<?php include 'php_includes/google_ad_top_horizonal.php'; ?>  
+
+
 <!-- Primary Page Layout -->
      <div class="container">
 
@@ -30,7 +33,8 @@
               <h4 class="card-title">
                 <a href="#">My Instagram Feed</a>
               </h4>
-                          <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/93651ce288a256299aa411c750948d08.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                          <script src="//www.powr.io/powr.js?external-type=html"></script> 
+ <div class="powr-instagram-feed" id="e7f6289a_1527448033"></div>
           
             </div>
           </div>

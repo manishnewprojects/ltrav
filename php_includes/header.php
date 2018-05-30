@@ -5,9 +5,9 @@
 
 <!-- Basic Page Needs -->
   <meta charset="utf-8">
-  <title> Premium Legos Destination Website </title>
-  <meta name="description" content="premium legos">
-  <meta name="author" content="@mv">
+  <title> Lantern Travels </title>
+  <meta name="description" content="travel blog">
+  <meta name="author" content="@mr_dreamerskies">
 
 <!-- Favicon -->
   <link rel="icon" type="image/ico" href="images/favicon.ico">
