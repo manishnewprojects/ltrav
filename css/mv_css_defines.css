@@ -4,11 +4,38 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/master/LICENSE)
  */
 
-body {
-  padding-top: 54px;
-}
+ 
 
-@media (min-width: 992px) {
+
+<style type="text/css">
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
+    font-weight: bold;
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
+    font-style: italic, oblique;
+  }
+  @font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
+    font-weight: bold;
+    font-style: italic, oblique;
+  }
+
+  body {
+    font-family: "Computer Modern", sans-serif;
+    padding-top: 54px;
+
+  }
+
+  @media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
@@ -21,3 +48,4 @@ body {
 .pagination {
   margin-bottom: 30px;
 }
+</style>
