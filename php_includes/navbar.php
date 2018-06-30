@@ -4,9 +4,7 @@
         <div class="inner">
            
 
-          		<a href="#"><img src="images/lantern_logo.png" alt=""></a> 
-		 
-
+          <a href="#"><img src="images/lantern_logo.png" alt="" class="mv_responsive"></a> 
           <nav class="nav nav-masthead justify-content-center">
 
             <a class="nav-link active" href="#">About</a>

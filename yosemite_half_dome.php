@@ -36,7 +36,7 @@
               <h4 class="card-title">
                 <a href="#">Project Two</a>
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              <p class="card-text">Yosemite Half Dome hike. Insane personal challenge. Worth every step. </p>
             </div>
           </div>
         </div>
