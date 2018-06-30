@@ -2,8 +2,10 @@
     
 <header class="masthead mb-auto text-center">
         <div class="inner">
-          
-          <h3 class="masthead-brand text-center bg-light fixed-top">Lantern Travels</h3>
+           
+
+          		<a href="#"><img src="images/lantern_logo.png" alt=""></a> 
+		 
 
           <nav class="nav nav-masthead justify-content-center">
 
