@@ -48,7 +48,7 @@
   
  <?php include 'php_includes/footer.php'; ?>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b40f3591b21c346"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b40f3591b21c346"></script>
 
 </body>
 </html>

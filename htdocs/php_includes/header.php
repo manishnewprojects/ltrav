@@ -26,5 +26,6 @@
 <!-- JQuery-->
     
 <!-- Local JS --> 
+<script charset="utf-8" type="text/javascript" src="js/gmap_click_event.js"></script>
  
 <!-- Google Maps API    -->
