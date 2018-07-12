@@ -17,10 +17,11 @@
 
 <?php include 'php_includes/navbar.php'; ?>
 
+<?php include 'php_includes/google_ad_top_horizonal.php'; ?>  
+
 <main role="main" class="inner cover">
 
 <div class="container">
- <?php include 'php_includes/google_ad_top_horizonal.php'; ?>  
       <!-- Page Heading -->
       <div align="center">
       <h1 class="my-3">
@@ -131,8 +132,9 @@
         </li>
       </ul>
 
-    </div>
-    <!-- /.container -->
+</div>
+<!-- /.container -->
+
 </main>
 
 <?php include 'php_includes/footer.php'; ?>
