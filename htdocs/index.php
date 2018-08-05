@@ -24,9 +24,7 @@
 <div class="container">
       <!-- Page Heading -->
       <div align="center">
-      <h1 class="my-3">
-        Travel Blogs, tips and advice for destinations all over the world
-       </h1>
+      <h1> Travel Blogs, tips and advice for destinations all over the world </h1>
       </div>
       
       <div class="row">

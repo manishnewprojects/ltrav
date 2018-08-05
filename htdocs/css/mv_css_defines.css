@@ -4,39 +4,25 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/master/LICENSE)
  */
 
-@font-face {
-    font-family: "Computer Modern";
-    src: url('fonts/otf/otfcmunss.otf');
-  }
-
-@font-face {
-    font-family: "Computer Modern";
-    src: url('fonts/otf/cmunsx.otf');
-    font-weight: bold;
-  }
-
-@font-face {
-    font-family: "Computer Modern";
-    src: url('fonts/otf/cmunsi.otf');
-    font-style: bold;
-  }
   
 @font-face {
     font-family: "Computer Modern";
-    src: url('fonts/otf/cmunbxo.otf');
-    font-weight: bold;
+    src: url('fonts/otf/cmunss.otf');
+    font-weight: normal;
     font-style: normal;
   }
 
   body {
     font-family: "Computer Modern";
-    font-weight: bold;
+        src: url('fonts/otf/cmunss.otf');
+
+    font-weight: normal;
     font-style: normal;
   }
 
   @media (min-width: 992px) {
   body {
-    /* padding-top: 56px; */
+    padding-top: 56px; 
   }
 }
 
@@ -49,7 +35,7 @@
 }
 
 .mv_responsive {
-    max-width: 25%;
+    max-width: 100%;
     height: auto;
 }
 

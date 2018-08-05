@@ -45,7 +45,7 @@
 
 <i>"Half Dome is the ultimate Yosemite day hike - the one you can't die without doing, and the one you're most likely to die while doing" - Unkown</i>
 
-<img class="mv_image" src="https://dreamerskies.files.wordpress.com/2016/08/img_6764.jpg" alt="img_6764"/>
+<img class="mv_image" src="images/yosemite/yosemite-half-dome.jpg" alt="Yosemite Half Dome"/>
 
 Over the past 20 years, I have made many trips to Yosemite national park. Each time I have gazed at the top of the imposing Half Dome rock and wondered what it would be like to stand on top. Of course, knowing that a climb involves one of the hardest hikes in the park meant that I never got around to actually doing it. Until this summer. Thanks to a bunch of motivated friends, I was able to cross this one off my bucket list!
 
@@ -53,11 +53,11 @@ Sunday, August 7, 2016 -
 
 We stayed the previous night at a motel in Merced, which is about 90mins from the valley. We left the motel around 3 am and reached the parking lot near Happy Isles bus stop along the valley floor route at around 4:30 am. We had a few protein loaded snacks and started hiking around 5 am. One of the most beautiful times in Yosemite is around dawn. Nature is slowly waking up & the tourists are still sleeping. Perfect time to enjoy the plentiful natural beauty.
 
-<img class="mv_image" src="https://dreamerskies.files.wordpress.com/2016/08/img_2975.jpg" alt="img_2975" width="2448" height="3264" />Starting from the trailhead, the hike climbs very quickly over a short period. Multiple layers of clothing are very rarely needed beyond this point. We took the John Muir trail up. It's a slightly longer way but I would definitely recommend it over the Mist trail.
+<img class="mv_image" src="images/yosemite/yosemite_half_dome_trail_sign.jpg" alt="img_2975" width="2448" height="3264" />Starting from the trailhead, the hike climbs very quickly over a short period. Multiple layers of clothing are very rarely needed beyond this point. We took the John Muir trail up. It's a slightly longer way but I would definitely recommend it over the Mist trail.
 
 We kept going up the trail till we came to the top of the Nevada falls.  By then the trail starts to flatten out and the vistas are beautiful. Catching the sunrise above the Nevada falls is an incredibly inspiring and beautiful site.
 
-<img class="mv_image" src="https://dreamerskies.files.wordpress.com/2016/08/img_3001.jpg" alt="img_3001" width="3264" height="2448" />
+<img class="mv_image" src="images/yosemite/yosemite-waterfall.jpg" alt="img_3001" width="3264" height="2448" />
 
 From here on, the terrain starts to change a lot.  The trail flattens out and technically you are in a forest but there is not much shade. The ground is mostly sandy and takes a lot of effort to walk through. For me, this was the most boring part of the hike. I resorted to listening to some music I had on my iPhone.
 
