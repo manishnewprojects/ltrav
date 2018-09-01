@@ -1,4 +1,6 @@
+ 
 <div align="center">
+<hr>
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Lantern_travels_top_horizonal -->
 <ins class="adsbygoogle"
@@ -8,6 +10,7 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<hr>
 </div> 
 
-
+ 

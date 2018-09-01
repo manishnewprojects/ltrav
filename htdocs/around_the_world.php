@@ -15,6 +15,7 @@
 
 <?php include (VIEW_NAVIGATION) ; ?>
 
+<?php include 'php_includes/google_ad_top_horizonal.php'; ?>  
 
 
 <div id="map"></div>

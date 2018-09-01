@@ -10,6 +10,8 @@
     src: url('fonts/otf/cmunss.otf');
     font-weight: normal;
     font-style: normal;
+        font-size: 110%;
+
   }
 
   body {
@@ -18,6 +20,8 @@
 
     font-weight: normal;
     font-style: normal;
+    font-size: 110%;
+    line-height: 22px;
   }
 
   @media (min-width: 992px) {
@@ -43,7 +47,23 @@
 
     max-width: 100%;
     height: auto;
+    border-style: double;
+    border-width: 5px; 
 }
+
+/* Make the carousel images fully responsive */
+  .carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+
+.caption-text{
+   background-color:#4A90E2; /* FBE7AD:Lantern yellow; 4A90E2: Lantern Blue; */
+   opacity: 0.8;
+   color:white;
+   font-weight: bolder;
+   }
+ 
 
 /* GOOGLE MAPS */
 

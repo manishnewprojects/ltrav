@@ -18,83 +18,146 @@
 <body>
 
 <?php include (VIEW_NAVIGATION) ; ?>
+<?php include (DIR_INCL . 'google_ad_top_horizonal.php'); ?> 
 
 <main role="main" class="inner cover">
 
 <div class="container">
- <?php include (DIR_INCL . 'google_ad_top_horizonal.php'); ?>  
+  
       <!-- Page Heading -->
-      <div align="center">
-      <h1 class="my-4">
-        <br>Paris<br>
-       </h1>
-      </div>
-      
-      <div class="row">
-        <div class="col-lg-9 col-sm-12 portfolio-item">
-          <div class="card h-100">
-           
-            <div class="card-body">
-              <h4 class="card-title">
-                <a href="#">City of lights, love and life.</a>
-              </h4>
-              <p class="card-text">Paris
+<div align="center">
+<h1 class="my-4">
+  <br>Paris, France<br>
+ </h1>
+</div>
+
+<div class="row">
+  <div class="col-lg-8 col-sm-6 portfolio-item">
+    <div class="card h-100  border border-primary">
+     <div class="card-body">
+        <h4 class="card-title">
+          <a href="#">Paris: City of lights, love and life.</a>
+        </h4>
+               
+
 
                 <!-- WP TEXT BEGINS -->
+<p class="card-text @font-face">
 
- 
+Paris is undoubtedly my most favorite destination in the world. I have been there at least a dozen times, but still whenever a question comes up about my favorite vacation destination, I always say Paris. What's one thing you should definitely see in Paris? I am not going to answer that with one of the top tourist attractions, because it's really none of those. The most wonderful thing about Paris is the city itself! The one activity I would most recommend? It's simply walking around the city. The best way to enjoy the beauty and the spirit of Paris is to walk the city - walk late at night, walk early in the morning, walk by the river, walk along the beautiful boulevards. Walk along the shops, walk down Haussmann's beautiful avenues. 
 
+<img class="mv_image" src="images/paris/paris-city-hall-mrdreamerskies.jpg" alt="Paris"/>
+
+
+One of my least favorite things about Paris is the first thing you see in Paris, which is the Charles de Gaulle airport. It's a complex myriad of buildings, some of which emphasize design over functionality. They probably look beautiful from the outside, but for the tired, haggard traveler arriving, they are just not the best. The immigration setup is confusing. Bags usually don't arrive very quickly, and then figuring out your way out to the Metro or other modes of transportation is quite confusing. In my recommendation, the best way to get the city is by the direct bus that goes from the airport to key points within the city. It's called the Roissybus. I used to take the metro, but these days I find some of the connections are quite complex and hard to navigate, so the bus is a better option. 
+
+But once you get past all of that, Paris just surrounds you with its beauty. Everywhere you look, you will see something that takes your breath away. The streets, the buildings, the riverbanks, the boulevards, and even a corner coffee shop. 
+
+<img class="mv_image" src="images/paris/paris-org.jpg" alt="Paris"/>
+
+
+One of the most visited sights of Paris is, of course, the Eiffel Tower. This most iconic structure is truly beautiful at any time of the day.  
+
+<img class="mv_image" src="images/paris/paris-eiffel-tower-mrdreamerskies.jpg" alt="paris Eiffel Tower"/>
+
+
+The area around the Eiffel Tower is very walkable. One of the best views of the town is actually from the other side of the river, from a place called Trocadero. If you are looking for some artistic photographs, hop onto the metro, get to the Trocadero and take your photos from there.
+
+An interesting but odd trend has been started by tourits in Paris. Not sure how locals view or feel about this. Its to tie locks on bridges as a marker for your love for your mate. There are reports that bridges are buckling under the weight of these locks and the city of Paris has to spend a huge chunk of its budget to take them off regularly. But makes for some nice moments for sure 
+
+<img class="mv_image" src="images/paris/paris-bridges-mrdreamerskies.jpg" alt="paris bridge locks"/>
+
+Champs-Élysées is the famous street and the Arc de Triomphe sits proudly at the end of this tree lined boulevard. The street itself is okay. I find the shops and restaurants a bit touristy. 
+
+<img class="mv_image" src="images/paris/paris-champs-elysee-mrdreamerskies.jpg" alt="paris Champs-Élysées"/>
+
+
+The Arc de Triomphe is a beautiful, monumental structure. 
+
+<img class="mv_image" src="images/paris/paris-champs-elysee-arch-mrdreamerskies.jpg" alt="paris champs elysee"/>
+
+The best part is to get to the top of the arch. The viewing gallery from top offers some of the best views of Paris. I would recommend going to the top of the Arc de Triomphe rather than go up the Eiffel Tower, which is expensive and crowded. 
+
+<img class="mv_image" src="images/paris/paris-view-from-arc-de-triomph.jpg" alt="paris arch de triomphe"/>
+
+
+The Notre Dame cathedral sits on an island in the middle of the city. It's a beautiful cathedral and the whole surrounding area is very nice. 
+
+<img class="mv_image" src="images/paris/paris-notradame-mrdreamerskies.jpg" alt="paris Notradame"/>
+
+Paris city hall also sits on this island. It's one of the two city halls in the world that actually sit on an island. The other one, interestingly enough, is in Cedar rapids, Iowa. There, now you are the owner of a completely useless fact (other than when the question comes on Jeopardy). 
+
+<img class="mv_image" src="images/paris/paris-ille-de-cite-mrdreamerskies.jpg" alt="paris city hall"/>
+
+
+Some of the world's best museums in Paris, starting with the Louvre with it's insanely large collection of artifacts, historical objects, and so many other things. You could literally spend days at the Louvre, but my recommendation is to allocate one full day, do your homework and decide on the sections of the museum that you want to visit and explore, so that you can focus your energy on those sections.
+
+<img class="mv_image" src="images/paris/paris-louvre-mrdreamerskies.jpg" alt="paris louvre"/>
+
+After a long day at the Louvre, be sure to enjoy a pastry from one of many nearby shops. French food is not really my thing as I find it too bland. But the pastries, a slice of heaven
+
+<img class="mv_image" src="images/paris/paris-pastries-mrdreamerskies.jpg" alt="paris pastries"/>
+
+However, my favorite museum in Paris though is not the Louvre, but the Musée d'Orsay. 
+
+<img class="mv_image" src="images/paris/paris-musee-d-orsay-mrdreamerskies.jpg" alt="paris musee d orsay"/>
+
+This is a converted railway station that now houses some of the world's most magnificent collection of impressionist paintings, particularly the pieces by Renoir, Monet and Manet.
+
+<img class="mv_image" src="images/paris/paris-musee-d-orsay-inside-mrdreamerskies.jpg" alt="paris musee d orsay"/>
+
+
+Another one of my favorite museums is the Rodin Museum. They have the best collection of Rodin sculptures, including the original gates of hell creation. It's another fantastic place to visit. 
+
+One could write a lot about the river Seine in Paris. They say that's the only sane thing in the city, but as a visitor it's insane not to walk around the river. Just cross the bridges back and forth and walk along the river, sit by a cafe, sip some coffee, or have a nice glass of wine with some charcuterie. 
+
+<img class="mv_image" src="images/paris/paris-seine-mrdreamerskies.jpg" alt="paris siene"/>
+
+Sacre Coeur is a beautiful church that sits on top of the hill. You can take the metro to a station at the bottom of the hill, and ideally just climb up the hill. You can also take the funicular ride up the hill. From the Montmartre hill, you can see a beautiful view of the city below. Just the environment around there is so fantastic as musicians playing live music, kids playing on the stairs that young couples kissing in the open area. Just a just a beautiful, beautiful place. As you make your way down the hill, make sure to stop by some of the smaller artists shops to see the beautiful works of art. It's really a nice way to spend an afternoon on this hill. 
+
+<img class="mv_image" src="images/paris/paris-sacre-coure-mrdreamerskies.jpg" alt="paris sacre coure"/>
+
+A visit to the palace at Versailles makes for a nice day trip. 
+
+You can take a train in the morning from one of the main stations and make the 90 minute or so journey to Versailles from the station. You walk to the palace, it's about a 10, 15 minute walk. 
+
+<img class="mv_image" src="images/paris/paris-versailles-stroll-mrdreamersies.jpg" alt="paris versaille"/>
+
+And then you can enjoy the rest of the morning enjoying the lavish lifestyle of kings like Louie the 16th, Louis, the 14th. The rooms have been meticulously restored the way they were when they were actually being used. This is probably one of the grandest palaces you will see in Europe. And then there are the gardens. You could spend a long time just looking at at the gardens. 
+
+<img class="mv_image" src="images/paris/paris-versailles-palace-interior-mrdreamerskies.jpg" alt="paris versaille"/>
+
+
+The town of Versailles itself is also interesting. There are many small restaurants and shops that you can spend time looking through and then you make your way back to the station for the train ride back to Paris.  
+
+<img class="mv_image" src="images/paris/paris-versailles-village-mrdreamerskies.jpg" alt="paris versaille"/>
+
+
+I hope to keep returning time and again to Paris - city of lights and love
+
+
+
+  
 
                 <!-- WP TEXT ENDS -->
 
               </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-3 col-sm-6 portfolio-item">
-                      <?php include 'php_includes/google_ad_336x280.php'; ?>  
-
-          <div class="card h-100">
-            <div class="card-body">
-               <h4 class="card-title">
-                <a href="#">My Instagram Feed</a>
-              </h4>
-                          <script src="//www.powr.io/powr.js?external-type=html"></script> 
-                          <div class="powr-instagram-feed" id="e7f6289a_1527448033"></div>
-          
-            </div>
-          </div>
-        </div>
-        
-      <!-- /.row -->
-
-      <!-- Pagination -->
-      <ul class="pagination justify-content-center">
-        <li class="page-item">
-          <a class="page-link" href="#" aria-label="Previous">
-            <span aria-hidden="true">&laquo;</span>
-            <span class="sr-only">Previous</span>
-          </a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">1</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">2</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">3</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#" aria-label="Next">
-            <span aria-hidden="true">&raquo;</span>
-            <span class="sr-only">Next</span>
-          </a>
-        </li>
-      </ul>
-
+      </div>
     </div>
-    <!-- /.container -->
+</div>
+               
+    <div class="col-lg-4 col-sm-6 portfolio-item">
+      <?php include 'php_includes/google_ad_large_vertical_300x600.php'; ?>  
+        <h4 class="card-title">
+         
+    </div>
+        
+       
+        
+     </div>
+      <!-- /.row -->
+  </div>
+<!-- /.container -->
 </main>
 
 <?php include 'php_includes/footer.php'; ?>

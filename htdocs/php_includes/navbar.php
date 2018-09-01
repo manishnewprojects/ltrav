@@ -2,8 +2,6 @@
     
 <header class="masthead mb-auto text-center">
         <div class="inner">
-           
-
           <a href="/?/"><img src="images/mv-lantern-logo.png" alt="" class="mv_responsive"></a> 
           <nav class="nav nav-masthead justify-content-center">
 
@@ -11,6 +9,5 @@
             <a class="nav-link" href="around_the_world.php"><h4>Around the world</h4></a>
             <a class="nav-link" href="contact.php"><h4>Contact</h4></a>
           </nav>
-
         </div>
 </header>
