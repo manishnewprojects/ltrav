@@ -2,7 +2,7 @@
     
 <header class="masthead mb-auto text-center">
         <div class="inner">
-          <a href="/?/"><img src="images/mv-lantern-logo.png" alt="" class="mv_responsive"></a> 
+          <a href="/"><img src="images/mv-lantern-logo.png" alt="" class="mv_responsive"></a> 
           <nav class="nav nav-masthead justify-content-center">
 
             <a class="nav-link active" href="about.php"><h4>About</h4></a>
