@@ -10,7 +10,7 @@
     src: url('fonts/otf/cmunss.otf');
     font-weight: normal;
     font-style: normal;
-        font-size: 110%;
+        font-size: 100%;
 
   }
 
@@ -20,8 +20,8 @@
 
     font-weight: normal;
     font-style: normal;
-    font-size: 110%;
-    line-height: 22px;
+    font-size: 100%;
+    line-height: 20px;
   }
 
   @media (min-width: 992px) {
@@ -49,6 +49,8 @@
     height: auto;
     border-style: double;
     border-width: 5px; 
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 /* Make the carousel images fully responsive */

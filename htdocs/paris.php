@@ -44,42 +44,42 @@
                 <!-- WP TEXT BEGINS -->
 <p class="card-text @font-face">
 
+ <b><i><u>TL;DR</u>: Must do once in a lifetime. Don't over plan. Soak in the city by just walking around. Louvre, d'Orsay a must. Day trip to Versailles if you can. Avoid the many tourist traps. Plan at to stay at minimum 3 days. Getting in and out of the city takes forever</i></b>
+                  
+                  <br><br>
+
 Paris is undoubtedly my most favorite destination in the world. I have been there at least a dozen times, but still whenever a question comes up about my favorite vacation destination, I always say Paris. What's one thing you should definitely see in Paris? I am not going to answer that with one of the top tourist attractions, because it's really none of those. The most wonderful thing about Paris is the city itself! The one activity I would most recommend? It's simply walking around the city. The best way to enjoy the beauty and the spirit of Paris is to walk the city - walk late at night, walk early in the morning, walk by the river, walk along the beautiful boulevards. Walk along the shops, walk down Haussmann's beautiful avenues. 
 
 <img class="mv_image" src="images/paris/paris-city-hall-mrdreamerskies.jpg" alt="Paris"/>
 
 
-One of my least favorite things about Paris is the first thing you see in Paris, which is the Charles de Gaulle airport. It's a complex myriad of buildings, some of which emphasize design over functionality. They probably look beautiful from the outside, but for the tired, haggard traveler arriving, they are just not the best. The immigration setup is confusing. Bags usually don't arrive very quickly, and then figuring out your way out to the Metro or other modes of transportation is quite confusing. In my recommendation, the best way to get the city is by the direct bus that goes from the airport to key points within the city. It's called the Roissybus. I used to take the metro, but these days I find some of the connections are quite complex and hard to navigate, so the bus is a better option. 
+One of my least favorite things about Paris is the first thing you see in Paris, which is the Charles de Gaulle airport. It's a complex myriad of buildings, some of which emphasize design over functionality. They probably look beautiful from the outside, but for the tired, haggard traveler arriving, they are just not the best. The immigration setup is confusing. Bags usually don't arrive very quickly, and then figuring out your way to the Metro or other modes of transportation is quite confusing. In my recommendation, the best way to get the city is by the direct bus that goes from the airport to key points within the city. It's called the Roissybus. I used to take the metro, but some of the connections are quite complex and hard to navigate with luggage, so the bus is a better option. 
 
-But once you get past all of that, Paris just surrounds you with its beauty. Everywhere you look, you will see something that takes your breath away. The streets, the buildings, the riverbanks, the boulevards, and even a corner coffee shop. 
+But once you get past the hassles of arriving, Paris just surrounds you with its beauty. Everywhere you look, you will see something that takes your breath away. The streets, the buildings, the riverbanks, the boulevards, and even a corner coffee shop. 
 
 <img class="mv_image" src="images/paris/paris-org.jpg" alt="Paris"/>
 
 
-One of the most visited sights of Paris is, of course, the Eiffel Tower. This most iconic structure is truly beautiful at any time of the day.  
+One of the most visited sights of Paris is, of course, the Eiffel Tower. This most iconic structure is truly beautiful at any time of the day. The area around the Eiffel Tower is very walkable. One of the best views of the town is actually from the other side of the river, from a place called Trocadero. If you are looking for some artistic photographs, hop onto the metro, get to the Trocadero and take your photos from there. Make sure to sit in one of the parks an enjoy the area like a local Parisian. Or better yet, pack a small picnic lunch and eat a sandwich while people watching. Imagine horse drawn carriages and dressed up folks walking along the promenades around the tower. Its like stepping into a time machine - so much fun!
 
 <img class="mv_image" src="images/paris/paris-eiffel-tower-mrdreamerskies.jpg" alt="paris Eiffel Tower"/>
 
 
-The area around the Eiffel Tower is very walkable. One of the best views of the town is actually from the other side of the river, from a place called Trocadero. If you are looking for some artistic photographs, hop onto the metro, get to the Trocadero and take your photos from there.
-
-An interesting but odd trend has been started by tourits in Paris. Not sure how locals view or feel about this. Its to tie locks on bridges as a marker for your love for your mate. There are reports that bridges are buckling under the weight of these locks and the city of Paris has to spend a huge chunk of its budget to take them off regularly. But makes for some nice moments for sure 
+An interesting but odd trend has been started by tourists in Paris. Not sure how locals view or feel about this. The trend is to tie locks on bridges as a marker of your love. There are reports that bridges are buckling under the weight of these locks and the city of Paris has to spend a huge chunk of its budget to take them off regularly. But makes for some nice moments for sure 
 
 <img class="mv_image" src="images/paris/paris-bridges-mrdreamerskies.jpg" alt="paris bridge locks"/>
 
-Champs-Élysées is the famous street and the Arc de Triomphe sits proudly at the end of this tree lined boulevard. The street itself is okay. I find the shops and restaurants a bit touristy. 
+Champs-Élysées is the famous street in Paris and the Arc de Triomphe sits proudly at the end of this beautiful tree lined boulevard. The street itself is nothing exciting. I find the shops and restaurants a bit touristy. I prefer walking some of the smaller by-lanes of the city. There are many beautiful buildings lining the champs-Elysees. Even if you are not a student of architecture, you can enjoy the beauty of these buildings. 
 
 <img class="mv_image" src="images/paris/paris-champs-elysee-mrdreamerskies.jpg" alt="paris Champs-Élysées"/>
 
-
-The Arc de Triomphe is a beautiful, monumental structure. 
+The Arc de Triomphe is a beautiful, monumental structure. Its grand and solemn at the same time. Testimony to those who sacrificed their lives for liberty. And as with everything else in Paris, its aesthetically beautiful too. 
 
 <img class="mv_image" src="images/paris/paris-champs-elysee-arch-mrdreamerskies.jpg" alt="paris champs elysee"/>
 
 The best part is to get to the top of the arch. The viewing gallery from top offers some of the best views of Paris. I would recommend going to the top of the Arc de Triomphe rather than go up the Eiffel Tower, which is expensive and crowded. 
 
 <img class="mv_image" src="images/paris/paris-view-from-arc-de-triomph.jpg" alt="paris arch de triomphe"/>
-
 
 The Notre Dame cathedral sits on an island in the middle of the city. It's a beautiful cathedral and the whole surrounding area is very nice. 
 

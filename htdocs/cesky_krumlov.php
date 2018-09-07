@@ -69,10 +69,10 @@
                   <img class="mv_image" src="images/cesky_krumlov/cesky_krumlov_aquaduct.jpg" alt="acquaduct cesky krumlov"/>
 
 
-                  You can get a ticket to visit the whole castle or parts of the castle. Start by going through the small museum that's right by the entrance (easy to miss, look for museum signs). 
+                  Spend some time just standing on the bridge watching the river flow by. Great spot for taking picutures. Furthe down you will cross over a moat. A real one. There is no water there anymore, but interestingly enough they have housed two bears in an enclosure built into the moat. If you are lucky, they will gift you with a viewing. Past the moat lies the main palace courtyard. In an office by the entrance, you can get a ticket to visit the whole castle or parts of the castle. Start by going through the small museum that's right by the entrance (easy to miss, look for museum signs). 
                   <img class="mv_image" src="images/cesky_krumlov/cesky_krumlov_castle_from_the_village.jpg" alt="village cesky krumlov"/>
 
-                  The museum has lots of interesting artifacts around the life of the “Lords of Krumlov”, like the Rosenbergs who were ranked among the most significant and influential Czech noble families. The life they lived in the country, and overall history of the region. One of the most fascinating parts of the castle for me was going up the tower. This was painstakingly restored some years ago by volunteers and, and looks really fantastic. From top of the tower you get a view that's unforgettable. Almost like being on a grand movie set or like just having walked right into a painting from the 14th century. 
+                  The museum has lots of interesting artifacts around the life of the “Lords of Krumlov”, like the Rosenbergs who were ranked among the most significant and influential Czech noble families. The life they lived in the country, and overall history of the region. One of the most fascinating parts of the castle for me was going up the tower. This was painstakingly restored some years ago by volunteers and, and looks really fantastic. From top of the tower you get a view that's unforgettable. Almost like being on a grand movie set, a hollywod backlot or like just having walked right into a painting from the 14th century. 
                   <img class="mv_image" src="images/cesky_krumlov/cesky_krumlov_view_from_castle.jpg" alt="castle tower cesky krumlov"/>
 
 
