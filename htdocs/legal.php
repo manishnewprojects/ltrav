@@ -72,8 +72,10 @@ Sunnyvale, CA 94085</h5>
 
 
 
-  
- <?php include 'php_includes/footer.php'; ?>
+<?php include 'php_includes/footer.php'; ?>
+
+
+<?php include 'php_includes/end_js.php'; ?>
 
 </body>
 </html>

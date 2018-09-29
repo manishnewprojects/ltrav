@@ -42,13 +42,18 @@
 
 
                 <!-- WP TEXT BEGINS -->
-<p class="card-text @font-face">
+<p class="card-text @font-face"> 
+
+
+ 
 
  <b><i><u>TL;DR</u>: Must do once in a lifetime. Don't over plan. Soak in the city by just walking around. Louvre, d'Orsay a must. Day trip to Versailles if you can. Avoid the many tourist traps. Plan at to stay at minimum 3 days. Getting in and out of the city takes forever</i></b>
                   
-                  <br><br>
+ <br>
+ <div class="sharethis-inline-share-buttons"></div>
+ <br>
 
-Paris is undoubtedly my most favorite destination in the world. I have been there at least a dozen times, but still whenever a question comes up about my favorite vacation destination, I always say Paris. What's one thing you should definitely see in Paris? I am not going to answer that with one of the top tourist attractions, because it's really none of those. The most wonderful thing about Paris is the city itself! The one activity I would most recommend? It's simply walking around the city. The best way to enjoy the beauty and the spirit of Paris is to walk the city - walk late at night, walk early in the morning, walk by the river, walk along the beautiful boulevards. Walk along the shops, walk down Haussmann's beautiful avenues. 
+Paris is undoubtedly my most favorite destination in the world. I have been there at least a dozen times, but still whenever a question comes up about my favorite vacation destination, I always say Paris. What's one thing you should definitely see in Paris? I am not going to answer that with one of the top tourist attractions, because it's really none of those. The most wonderful thing about Paris is the city itself! The one activity I would most recommend? It's simply walking around the city. The best way to enjoy the beauty and the spirit of Paris is to walk the city - walk late at night, walk early in the morning, walk by the river, walk along the beautiful boulevards. Walk along the shops, walk down <a target="_blank" href="https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris"> Haussmann's </a>  beautiful avenues. 
 
 <img class="mv_image" src="images/paris/paris-city-hall-mrdreamerskies.jpg" alt="Paris"/>
 
@@ -60,12 +65,12 @@ But once you get past the hassles of arriving, Paris just surrounds you with its
 <img class="mv_image" src="images/paris/paris-org.jpg" alt="Paris"/>
 
 
-One of the most visited sights of Paris is, of course, the Eiffel Tower. This most iconic structure is truly beautiful at any time of the day. The area around the Eiffel Tower is very walkable. One of the best views of the town is actually from the other side of the river, from a place called Trocadero. If you are looking for some artistic photographs, hop onto the metro, get to the Trocadero and take your photos from there. Make sure to sit in one of the parks an enjoy the area like a local Parisian. Or better yet, pack a small picnic lunch and eat a sandwich while people watching. Imagine horse drawn carriages and dressed up folks walking along the promenades around the tower. Its like stepping into a time machine - so much fun!
+One of the most visited sights of Paris is, of course, the Eiffel Tower. This most iconic structure is truly beautiful at any time of the day. The area around the Eiffel Tower is very walkable. One of the best views of the town is actually from the other side of the river, from a place called <a target="_blank" href="https://goo.gl/maps/2iWVmcwnVCp"> Trocadero Garden </a>. If you are looking for some artistic photographs, hop onto the metro, get to the Trocadero and take your photos from there. Make sure to sit in one of the parks an enjoy the area like a local Parisian. Or better yet, pack a small picnic lunch and eat a sandwich while people watching. Imagine horse drawn carriages and dressed up folks walking along the promenades around the tower. Its like stepping into a time machine - so much fun!
 
 <img class="mv_image" src="images/paris/paris-eiffel-tower-mrdreamerskies.jpg" alt="paris Eiffel Tower"/>
 
 
-An interesting but odd trend has been started by tourists in Paris. Not sure how locals view or feel about this. The trend is to tie locks on bridges as a marker of your love. There are reports that bridges are buckling under the weight of these locks and the city of Paris has to spend a huge chunk of its budget to take them off regularly. But makes for some nice moments for sure 
+An interesting but odd trend has been started by tourists in Paris. Not sure how locals view or feel about this. The trend is to tie locks on bridges as a marker of your love. There are <a target="_blank" href="https://www.smithsonianmag.com/smart-news/paris-love-lock-problem-180957047/"> reports </a>  that bridges are buckling under the weight of these locks and the city of Paris has to spend a huge chunk of its budget to take them off regularly. But makes for some nice moments for sure 
 
 <img class="mv_image" src="images/paris/paris-bridges-mrdreamerskies.jpg" alt="paris bridge locks"/>
 
@@ -73,7 +78,7 @@ Champs-Élysées is the famous street in Paris and the Arc de Triomphe sits prou
 
 <img class="mv_image" src="images/paris/paris-champs-elysee-mrdreamerskies.jpg" alt="paris Champs-Élysées"/>
 
-The Arc de Triomphe is a beautiful, monumental structure. Its grand and solemn at the same time. Testimony to those who sacrificed their lives for liberty. And as with everything else in Paris, its aesthetically beautiful too. 
+The <a target="_blank" href="https://en.wikipedia.org/wiki/Arc_de_Triomphe"> Arc de Triomphe </a>  is a beautiful, monumental structure. Its grand and solemn at the same time. Testimony to those who sacrificed their lives for liberty. And as with everything else in Paris, its aesthetically beautiful too. 
 
 <img class="mv_image" src="images/paris/paris-champs-elysee-arch-mrdreamerskies.jpg" alt="paris champs elysee"/>
 
@@ -85,7 +90,7 @@ The Notre Dame cathedral sits on an island in the middle of the city. It's a bea
 
 <img class="mv_image" src="images/paris/paris-notradame-mrdreamerskies.jpg" alt="paris Notradame"/>
 
-Paris city hall also sits on this island. It's one of the two city halls in the world that actually sit on an island. The other one, interestingly enough, is in Cedar rapids, Iowa. There, now you are the owner of a completely useless fact (other than when the question comes on Jeopardy). 
+Paris city hall also sits on this island. It's one of the three city halls in the world that actually sit on an island. The other two, interestingly enough, are <a target="_blank" href="https://en.wikipedia.org/wiki/Veterans_Memorial_Building_(Cedar_Rapids,_Iowa)"> Cedar rapids, Iowa </a>  and Osaka, Japan. There, now you are the owner of a completely useless fact (other than when the question comes on Jeopardy). 
 
 <img class="mv_image" src="images/paris/paris-ille-de-cite-mrdreamerskies.jpg" alt="paris city hall"/>
 
@@ -102,7 +107,7 @@ However, my favorite museum in Paris though is not the Louvre, but the Musée d'
 
 <img class="mv_image" src="images/paris/paris-musee-d-orsay-mrdreamerskies.jpg" alt="paris musee d orsay"/>
 
-This is a converted railway station that now houses some of the world's most magnificent collection of impressionist paintings, particularly the pieces by Renoir, Monet and Manet.
+This is a converted railway station that now houses some of the world's most magnificent collection of  <a target="_blank" href="https://en.wikipedia.org/wiki/Impressionism "> impressionist paintings </a>, particularly the pieces by Renoir, Monet and Manet.
 
 <img class="mv_image" src="images/paris/paris-musee-d-orsay-inside-mrdreamerskies.jpg" alt="paris musee d orsay"/>
 
@@ -113,7 +118,7 @@ One could write a lot about the river Seine in Paris. They say that's the only s
 
 <img class="mv_image" src="images/paris/paris-seine-mrdreamerskies.jpg" alt="paris siene"/>
 
-Sacre Coeur is a beautiful church that sits on top of the hill. You can take the metro to a station at the bottom of the hill, and ideally just climb up the hill. You can also take the funicular ride up the hill. From the Montmartre hill, you can see a beautiful view of the city below. Just the environment around there is so fantastic as musicians playing live music, kids playing on the stairs that young couples kissing in the open area. Just a just a beautiful, beautiful place. As you make your way down the hill, make sure to stop by some of the smaller artists shops to see the beautiful works of art. It's really a nice way to spend an afternoon on this hill. 
+Sacre Coeur is a beautiful church that sits on top of the hill. You can take the metro to a station at the bottom of the hill, and ideally just climb up the hill. You can also take the <a target="_blank" href="https://en.parisinfo.com/transport/103125/Funiculaire-de-Montmartre "> funicular ride </a>  up the hill. From the Montmartre hill, you can see a beautiful view of the city below. Just the environment around there is so fantastic as musicians playing live music, kids playing on the stairs that young couples kissing in the open area. Just a just a beautiful, beautiful place. As you make your way down the hill, make sure to stop by some of the smaller artists shops to see the beautiful works of art. It's really a nice way to spend an afternoon on this hill. 
 
 <img class="mv_image" src="images/paris/paris-sacre-coure-mrdreamerskies.jpg" alt="paris sacre coure"/>
 
@@ -123,7 +128,7 @@ You can take a train in the morning from one of the main stations and make the 9
 
 <img class="mv_image" src="images/paris/paris-versailles-stroll-mrdreamersies.jpg" alt="paris versaille"/>
 
-And then you can enjoy the rest of the morning enjoying the lavish lifestyle of kings like Louie the 16th, Louis, the 14th. The rooms have been meticulously restored the way they were when they were actually being used. This is probably one of the grandest palaces you will see in Europe. And then there are the gardens. You could spend a long time just looking at at the gardens. 
+And then you can enjoy the rest of the morning enjoying the lavish lifestyle of kings like <a target="_blank" href="https://en.wikipedia.org/wiki/Louis_XIV_of_France"> Louie the XIV (Fourteenth) </a>  and Louis the XVI (Sixteenth). The rooms have been meticulously restored the way they were when they were actually being used. This is probably one of the grandest palaces you will see in Europe. And then there are the gardens. You could spend a long time just looking at at the gardens. 
 
 <img class="mv_image" src="images/paris/paris-versailles-palace-interior-mrdreamerskies.jpg" alt="paris versaille"/>
 
@@ -142,16 +147,36 @@ I hope to keep returning time and again to Paris - city of lights and love
                 <!-- WP TEXT ENDS -->
 
               </p>
-      </div>
+        </div>
     </div>
 </div>
                
     <div class="col-lg-4 col-sm-6 portfolio-item">
       <?php include 'php_includes/google_ad_large_vertical_300x600.php'; ?>  
         <h4 class="card-title">
-         
-    </div>
-        
+      <!--DISQUS JS -->
+
+ <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://lanterntravels.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
        
         
      </div>

@@ -15,17 +15,27 @@
 
 <body>
 
+<amp-auto-ads type="adsense"
+              data-ad-client="ca-pub-9331817746326065">
+</amp-auto-ads>
+
+
+
 <?php include 'php_includes/navbar.php'; ?>
 
-<?php include 'php_includes/google_ad_top_horizonal.php'; ?>  
 
 <main role="main" class="inner cover">
 
 <div class="container">
+
   <!-- Page Heading -->
   <div align="center">
-  <h1> Travel Blogs, tips and advice for destinations all over the world </h1>
 
+  <?php include 'php_includes/lantern_responsive_google_ad.php'; ?>  
+
+  <p class="mv_header_title">   Travel blogs, tips and advice for destinations all over the world   </p>
+
+ 
         <!-- BEGIN CAROUSEL CODE -->
 
        <div id="lanterntravelscarousel" class="carousel slide" data-ride="carousel">
@@ -41,8 +51,7 @@
           <!-- The slideshow -->
 
         <div class="carousel-inner">
-
-          <div class="carousel-item active">
+           <div class="carousel-item active">
             <a href="yosemite_half_dome.php">
               <img class="d-block w-100" src="images/yosemite/yosemite-half-dome.jpg" alt="Yosemite">
             </a>
@@ -130,7 +139,7 @@
 
       <div class="col-lg-3 col-sm-6 portfolio-item">
         <div class="card h-100 border border-primary">
-           <?php include 'php_includes/google_ad_box_300x100.php'; ?>  
+           <?php include 'php_includes/google_ad_box_320x100.php'; ?>  
             <a href="paris.php"><img class="card-img-top" src="images/paris/paris400.jpg" alt=""></a>
           <div class="card-body">
               <h4 class="card-title">
@@ -192,12 +201,14 @@
       <!-- /.row -->
   </div>
 <!-- /.container -->
+
+<?php include 'php_includes/end_js.php'; ?>
+
 </main>
 
 <?php include 'php_includes/footer.php'; ?>
 
 
-<?php include 'php_includes/end_js.php'; ?>
 
 </body>
 </html>

@@ -45,15 +45,18 @@
                  
                  <p class="card-text @font-face">
 
+  
                  <b><i><u>TL;DR</u>: Must do day trip from Prague. Take the train.  Enjoy the castle museum. View from the tower is awesome. Pick up sandwiches from local grocery store in Cesky Krumlov. Avoid the touristy restaurants.</i></b>
                   
-                  <br><br>
+                  <br>
+ <div class="sharethis-inline-share-buttons"></div>
+ <br>
 
-                  Cesky Krumlov, one of the most fascinating medieval towns that I have visited. We took the early morning train from the main station in Prague. It leaves around 8:00 in the morning, and we were able to easily get tickets at the station.
+                  Cesky Krumlov, one of the most fascinating medieval towns that I have visited. We took the early morning train <a target="_blank" href="https://czech-transport.com/index.php?train=2629&lang=en"> (Click here to look up the train schedule) </a> from the main station in Prague called <a target="_blank" href="https://www.pragueexperience.com/places.asp?PlaceID=1005"> Praha Hlavni Nadrazi </a>. The train leaves around 8:00 in the morning, and we were able to easily get tickets at the station. There are also many buses that go between Prague and Cesky Krumlov. If you want to travel by road that is also an option. You could also take the train there in the morning and take a bus back if you want to spend the day in Cesky Krumlov. <a target="_blank" href="https://www.flixbus.com/bus-routes/bus-cesky-krumlov-prague"> (Click here to search bus options) </a>
 
                     <img class="mv_image" src="images/cesky_krumlov/prague_train_to_cesky_krumlov.jpg" alt="Prague cesky krumlov train"/>
 
-                   Everybody in Prague seems to pick up the bread fresh every morning and we did the same from a store at the station. This came in handy to fix a nice breakfast in the morning. The train arrived exactly on time and we boarded without much difficulty. We were there in April, which I guess is not the high tourist season, so the train was not a very crowded. We had a whole compartment to ourselves, which was really fantastic. The train goes by beautiful Czech countryside offering some great views. I was amused by the guys walking down the aisle with a trolly selling tea, coffee and biscuits.  Three hours go by really fast. One of the interesting stops along the way is the town of Brno. For those interested in the history of genetics, the monastery in this town was where Gregor Mendel conducted his famous experiments on evolution using pea plants.
+                   Everybody in Prague seems to pick up the bread fresh every morning and we did the same from a store at the station. This came in handy to fix a nice breakfast in the morning. The train arrived exactly on time and we boarded without much difficulty. We were there in April, which I guess is not the high tourist season, so the train was not a very crowded. We had a whole compartment to ourselves, which was really fantastic. The train goes by beautiful Czech countryside offering some great views. I was amused by the guys walking down the aisle with a trolly selling tea, coffee and biscuits.  Three hours go by really fast. One of the interesting stops along the way is the town of Brno. For those interested in the history of genetics, the monastery in this town was where <a target="_blank" href="https://en.wikipedia.org/wiki/Gregor_Mendel"> Gregor Mendel </a>  conducted his famous <a target="_blank" href="https://www2.palomar.edu/anthro/mendel/mendel_1.htm"> experiments in genetics </a> using pea plants.
 
                   The train rolls into Cesky Krumlov around 11:00. A very small, quaint station, which I loved right away.  
 
@@ -72,7 +75,7 @@
                   Spend some time just standing on the bridge watching the river flow by. Great spot for taking picutures. Furthe down you will cross over a moat. A real one. There is no water there anymore, but interestingly enough they have housed two bears in an enclosure built into the moat. If you are lucky, they will gift you with a viewing. Past the moat lies the main palace courtyard. In an office by the entrance, you can get a ticket to visit the whole castle or parts of the castle. Start by going through the small museum that's right by the entrance (easy to miss, look for museum signs). 
                   <img class="mv_image" src="images/cesky_krumlov/cesky_krumlov_castle_from_the_village.jpg" alt="village cesky krumlov"/>
 
-                  The museum has lots of interesting artifacts around the life of the “Lords of Krumlov”, like the Rosenbergs who were ranked among the most significant and influential Czech noble families. The life they lived in the country, and overall history of the region. One of the most fascinating parts of the castle for me was going up the tower. This was painstakingly restored some years ago by volunteers and, and looks really fantastic. From top of the tower you get a view that's unforgettable. Almost like being on a grand movie set, a hollywod backlot or like just having walked right into a painting from the 14th century. 
+                  The museum has lots of interesting artifacts around the life of the <a target="_blank" href="http://www.ckrumlov.info/docs/en/mesto_histor_panzck.xml"> “Lords of Krumlov” </a>, like the Rosenbergs who were ranked among the most significant and influential Czech noble families. The life they lived in the country, and overall history of the region. One of the most fascinating parts of the castle for me was going up the tower. This was painstakingly restored some years ago by volunteers and, and looks really fantastic. From top of the tower you get a view that's unforgettable. Almost like being on a grand movie set, a hollywod backlot or like just having walked right into a painting from the 14th century. 
                   <img class="mv_image" src="images/cesky_krumlov/cesky_krumlov_view_from_castle.jpg" alt="castle tower cesky krumlov"/>
 
 
@@ -93,6 +96,7 @@
 
               </p>
             </div>
+            
           </div>
         </div>
 
@@ -101,15 +105,9 @@
                       <?php include 'php_includes/google_ad_336x280.php'; ?>  
 
           <h4 class="card-title">
-          <!-- <div class="card h-100 border border-primary">
-                <a href="interlaken.php"><img class="card-img-top" src="images/switzerland/switzerland-interlaken-700.jpg" alt=""></a>
-                <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="interlaken.php">Interlaken, Switzerland</a>
-                  </h4>
-                  <p class="card-text">How green is my valley?</p>
-                </div>
-              </div> -->
+          
+        
+
         </div>
         
       </div>

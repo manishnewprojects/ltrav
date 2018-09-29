@@ -62,3 +62,18 @@
           enable_page_level_ads: true
      });
 </script>
+
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5bab2d04c990a900119433d4&product=social-ab' async='async'></script>
+
+  
+
+<meta property="og:title" content="Lantern Travels">
+<meta property="og:site_name" content="Lantern Travels">
+<meta property="og:url" content="https://lanterntravels.com">
+<meta property="og:description" content="Travel blogs, tips and advice for destinations all over the world. No paid content. Musings of an intrepid traveller @mr_dreamerskies - Dreamer. Entrepreneur, traveler, music lover, photographer">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://lanterntravels.com/yosemite_half_dome.php">
+<meta property="og:image" content="https://lanterntravels.com/images/prague/prague_castle_charles_bridge_vltava_river.jpg">
+<meta property="og:image" content="https://lanterntravels.com/images/paris/paris-org.jpg">
+<meta property="og:image" content="https://lanterntravels.com/images/cesky_krumlov/cesky_krumlov_view_from_castle.jpg">
+<meta property="og:image" content="https://lanterntravels.com/images/cesky_krumlov/cesky_krumlov_village_street.jpg">

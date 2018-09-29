@@ -19,36 +19,34 @@
  <div class="main main-raised">
   <div class="container" align="center">
     <div class="col-md-8 col-md-offset-2">
-        <br>
-        <br>
-        <h2 class="title"> <br> About LanternTravels.com </h2>
+        
+        <h2 class="title"> <br> Lantern Travels </h2>
 
 		<div class="col-md-8 col-md-offset-2">
-     	</div>
+        <br> Musings of an intrepid traveller  
+ 
+      
+        @mr_dreamerskies - Dreamer. Entrepreneur, traveler, music lover, photographer & tech geek
 
-	<div class="col-md-8 col-md-offset-2" align="center">
-        
-                <!-- Go to www.addthis.com/dashboard to customize your tools -->
-                <div class="addthis_inline_follow_toolbox"></div>
-            
+
+<br>
 
  
+5 continents, 20 countries and counting!
 <br>
  
+ </div>
 
+             
+<div class="sharethis-inline-follow-buttons"></div>   
 
-  </div>        
-
-               
-  </div>
-
-</h5>
-<br>
+ <br>
 
   
  <?php include 'php_includes/footer.php'; ?>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b40f3591b21c346"></script>
+
+
+<?php include 'php_includes/end_js.php'; ?>
 
 </body>
 </html>

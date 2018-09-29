@@ -39,10 +39,21 @@
           <a href="#">Prague: Historic, Romantic, Cozy, Modern & very affordable.</a>
         </h4>
                
-
+ <p class="card-text">Prague, Czechia
 
                 <!-- WP TEXT BEGINS -->
-<p class="card-text">
+
+                 
+                 <p class="card-text @font-face">
+
+ 
+
+                 <b><i><u>TL;DR</u>:  Beautiful, historic and friendly city. Very affordable. Take public transportation everywhere. Very walkable too. Get to the Charles bridge early in the morning, followed by a visit to the Castle. Must see Museum of Communism</i></b>
+                  
+                  <br>
+ <div class="sharethis-inline-share-buttons"></div>
+ <br>
+
 Prague is one of the most beautiful and very tourist friendly cities I have been to. The whole city is very walkable and unlike some other European cities, will not bite into your wallet. The Czech republic is a part of the European Union, but they did not adopt the Euro as their currency. The local currency is the Czech Koruna and when I visited in April 2018, $1 was worth about 20 Koruna. Prague is a curious concoction of old world European charm and a communist style architectures, so you will regularly find cobbled streets and red roofed buildings right next to communist style building blocks
 
 <img class="mv_image" src="images/prague/prague_castle_charles_bridge_vltava_river.jpg" alt="Prague charles bridge"/>
@@ -112,17 +123,17 @@ Also, if you get a chance, do go by the river at night and walk along the edge t
 Historic, beautiful, affordable, walkable and a unique cultural treasure - Prague is a fantastic place to visit.
 
 
-                <!-- WP TEXT ENDS -->
+                    <!-- WP TEXT ENDS -->
 
               </p>
-      </div>
-    </div>
+        </div>
+     </div>
 </div>
                
     <div class="col-lg-4 col-sm-6 portfolio-item">
-      <?php include 'php_includes/google_ad_large_vertical_300x600.php'; ?>  
+       
         
-    </div>
+    
         
        
         

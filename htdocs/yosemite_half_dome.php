@@ -40,8 +40,18 @@
               </h4>
               <p class="card-text">Yosemite Half Dome hike.  
 
-
                 <!-- WP TEXT BEGINS -->
+
+
+<p class="card-text @font-face">
+
+ 
+
+<b><i><u>TL;DR</u>: Once in a lifetime, must do hike for outdoor lovers. Needs 3 months of practice and will still push you. Take lots of water. Start as early in the morning as possible. Enjoy time at the top - you made it!</i></b>
+                  
+ <br>
+ <div class="sharethis-inline-share-buttons"></div>
+ <br>
 
 <i>"Half Dome is the ultimate Yosemite day hike - the one you can't die without doing, and the one you're most likely to die while doing" - Unkown</i>
 
@@ -49,8 +59,9 @@
 
 Over the past 20 years, I have made many trips to Yosemite national park. Each time I have gazed at the top of the imposing Half Dome rock and wondered what it would be like to stand on top. Of course, knowing that a climb involves one of the hardest hikes in the park meant that I never got around to actually doing it. Until this summer. Thanks to a bunch of motivated friends, I was able to cross this one off my bucket list!
 
-Sunday, August 7, 2016 -
+It took me about 3 months to get physically prepared for the Halfdome hike. We hiked almost every weekend leading up to it. Each week we increased the length of the hike we did. Starting out with hikes of around 6-7 miles, by the final weekend we were doing a roughly 14 mile hike. If you like in the San Francisco Bay area, <a href="http://bahiker.com">bahiker</a> an excellent resource to find hikes near any location. 
 
+ 
 We stayed the previous night at a motel in Merced, which is about 90mins from the valley. We left the motel around 3 am and reached the parking lot near Happy Isles bus stop along the valley floor route at around 4:30 am. We had a few protein loaded snacks and started hiking around 5 am. One of the most beautiful times in Yosemite is around dawn. Nature is slowly waking up & the tourists are still sleeping. Perfect time to enjoy the plentiful natural beauty.
 
 <img class="mv_image" src="images/yosemite/yosemite_half_dome_trail_sign-wm-mrdreamerskies.jpg" alt="img_2975" width="2448" height="3264" />Starting from the trailhead, the hike climbs very quickly over a short period. Multiple layers of clothing are very rarely needed beyond this point. We took the John Muir trail up. It's a slightly longer way but I would definitely recommend it over the Mist trail.
@@ -110,12 +121,11 @@ As noted by my Fitbit - 50757 steps 19.6 miles 12 hrs. The pedometer app on my i
 Insane. Crazy. Thrilling. Extreme Personal Challenge. Check all of the above! <a href="https://www.instagram.com/explore/tags/bucketlist/">#bucketlist</a> <a href="https://www.instagram.com/explore/tags/halfdome/">#halfdome</a> done! 50757 steps, 19.6 miles, 12 hrs
 
 
-
-                <!-- WP TEXT ENDS -->
+      <!-- WP TEXT ENDS -->
 
               </p>
-            </div>
-          </div>
+        </div>
+           </div>
         </div>
 
 
@@ -123,15 +133,8 @@ Insane. Crazy. Thrilling. Extreme Personal Challenge. Check all of the above! <a
                       <?php include 'php_includes/google_ad_336x280.php'; ?>  
 
           <h4 class="card-title">
-          <!-- <div class="card h-100 border border-primary">
-                <a href="interlaken.php"><img class="card-img-top" src="images/switzerland/switzerland-interlaken-700.jpg" alt=""></a>
-                <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="interlaken.php">Interlaken, Switzerland</a>
-                  </h4>
-                  <p class="card-text">How green is my valley?</p>
-                </div>
-              </div> -->
+ 
+        
         </div>
         
       </div>

@@ -26,8 +26,10 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCyzNh1jUjz9QJ9VE_GO0DBV8w
 
 
   
- <?php include 'php_includes/footer.php'; ?>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
- 
+<?php include 'php_includes/footer.php'; ?>
+
+
+<?php include 'php_includes/end_js.php'; ?>
+
 </body>
 </html>

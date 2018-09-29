@@ -2,12 +2,11 @@
     
 <header class="masthead mb-auto text-center">
         <div class="inner">
-          <a href="/"><img src="images/mv-lantern-logo.png" alt="" class="mv_responsive"></a> 
+          <a href="/"><img src="images/lantern-flat.png" alt="" class="mv_responsive_nav_logo"></a> 
           <nav class="nav nav-masthead justify-content-center">
-
-            <a class="nav-link active" href="about.php"><h4>About</h4></a>
-            <a class="nav-link" href="around_the_world.php"><h4>Around the world</h4></a>
-            <a class="nav-link" href="contact.php"><h4>Contact</h4></a>
+            <a class="nav-link active mv_nav_items" href="about.php"> About </a>
+            <a class="nav-link mv_nav_items" href="around_the_world.php"> Destinations </a>
+            <a class="nav-link mv_nav_items" href="contact.php"> Contact </a>
           </nav>
         </div>
 </header>
