@@ -4,20 +4,19 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-3-col-portfolio/blob/master/LICENSE)
  */
 
-
+/* Main CSS */
+html, body {
+  height: 100%;
+  font-family: cmr;
+ }
   
 
-  body {
-    font-family: "Computer Modern";
-    src: url('fonts/otf/cmunss.otf');
-    font-weight: normal;
-    font-style: normal;
-    font-size: 100%;
-    line-height: 20px;
-  }
+@font-face {
+  font-family: "cmr";
+  src: url('fonts/cmr10.ttf');
+ }
 
  
-
 .portfolio-item {
   margin-bottom: 30px;
 }
@@ -27,31 +26,23 @@
 }
 
 .mv_responsive_nav_logo {
-    width: 80%;
+    width: 90%;
     height:auto;
     border-style: none;
     align-content: center;
     margin-top: 15px;
-}
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:rgba(74, 144, 226, .3);
+ }
 
 .mv_nav_items {
     font-size: 30px;
     line-height: 40px;
 }
 
-@media (min-width: 800px) {
-    .mv_responsive_nav_logo{
-      width: 50%
-    }
-    .mv_nav_items {
-    font-size: 50px;
-    line-height: 60px;
-    }
-}
-
 
 .mv_image {
-
     max-width: 100%;
     height: auto;
     border-style: double;
@@ -61,22 +52,9 @@
 }
 
 
-
 .mv_header_title {
     font-size: 40px;
 }
-
-/* 600px for anything less than tablet portrait mode */
-@media (max-width: 700px) {
-    .mv_nav_items {
-        font-size: 20px;
-    }
-    .mv_header_title {
-    font-size: 130%;
-    line-height: 30px;
-  }
-}
-
 
 
 /* Make the carousel images fully responsive */
@@ -93,6 +71,28 @@
 }
 
 
+/* 700px for anything less than tablet portrait mode */
+@media (max-width: 700px) {
+    .mv_nav_items {
+        font-size: 20px;
+    }
+    .mv_header_title {
+    font-size: 20px;
+  }
+}
+
+/* Any adjustments for large displays go here */
+@media (min-width: 800px) {
+    .mv_nav_items {
+    font-size: 50px;
+    line-height: 60px; 
+    }
+    .mv_responsive_nav_logo{
+      width: 50%;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+}
 
 
 /* GOOGLE MAPS */
@@ -102,9 +102,4 @@
 #map {
   height: 100%;
 }
-/* Optional: Makes the sample page fill the window. */
-html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-}
+ 
